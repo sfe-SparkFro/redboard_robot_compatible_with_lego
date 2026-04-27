@@ -1,4 +1,4 @@
-# LEGO RedBoard Robot
+# RedBoard Robot, Compatible with LEGOⓇ
 
 LEGO devices which use the Powered Up connector are actually quite easy to hack into! To demonstrate this, we built a robot using hardware from the LEGO SPIKE platform and various off-the-shelf hobby electronics, MicroPython, and 3D printing!
 
