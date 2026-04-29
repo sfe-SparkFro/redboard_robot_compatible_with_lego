@@ -17,13 +17,22 @@ This connector has been reverse engineered by various community members. [This p
 
 Because the connector is proprietary, it's not really usable with off-the-shelf parts. However, the cable is just a standard 1.27mm pitch flat ribbon cable, so it's actually really easy to bypass the connector entirely! There is a kind of connector called an insulation displacement connector (IDC), which come in 2 parts that you press onto a ribbon cable ([here's an example](https://www.sparkfun.com/ribbon-crimp-connector-6-pin-2x3-female.html)). One part has metal blades that pierce through the insulation (displaces the insulation?) and make electrical contact with the wire inside. No special tools are needed, no stripping wires, no soldering or crimping tiny pins. Just squish the 2 parts together, that's it!
 
-![IDC connector](images/idc_connector.jpg)
+![IDC connector](images/idc_connector.png)
 
 You do need to be a bit careful though. The second part of the connector can break if it's not pressed straight on. There are dedicated crimping tools you can get for these, but a strong flat object is totally sufficient for this. Also be sure to align the pin 1 indicator with pin 1 of the cable!
 
 Once the connector is attached, you can just insert standard 0.1" jumper wires into the connector to connect with other electronics.
 
 ![Jumper wires in connector](images/jumper_wires_in_connector.jpg)
+
+Here are the wire colors used for each pin:
+
+1. Red
+2. Black
+3. Blue
+4. Yellow
+5. White
+6. Green
 
 ## UART Protocol
 

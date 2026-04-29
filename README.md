@@ -2,7 +2,7 @@
 
 LEGO devices which use the Powered Up connector are actually quite easy to hack into! To demonstrate this, we built a robot using hardware from the LEGO SPIKE platform and various off-the-shelf hobby electronics, MicroPython, and 3D printing!
 
-![LEGO RedBoard Robot](images/lego_redboard_robot.jpg)
+![LEGO RedBoard Robot](images/redboard_robot_compatible_with_lego.jpg)
 
 This also demonstrates that you can dramatically expand the capabilities of your LEGO robot. Add sensors and displays, create your own breadboard circuits, or 3D print your own mechanisms!
 
